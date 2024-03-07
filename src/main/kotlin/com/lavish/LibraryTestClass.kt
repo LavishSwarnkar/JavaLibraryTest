@@ -1,3 +1,3 @@
-package org.example
+package com.lavish
 
 class LibraryTestClass
